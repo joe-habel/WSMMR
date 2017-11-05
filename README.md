@@ -1,4 +1,4 @@
-# WSMMR
+# WSMSR
 This is our product from Fall 2017 HackPSU.
 
 It is a single hacked together Twitter Data miner/plotter aimed at quantifying public perceptions of a company or product
